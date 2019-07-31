@@ -1,0 +1,1 @@
+first commit to this rigistry , add 3th ,4th ,5th question's solution of leetcode.
