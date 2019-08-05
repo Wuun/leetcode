@@ -46,3 +46,7 @@ func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 
 	return findMedianSortedArrays(nums1[:len1/2+1], nums2[len2/2:])
 }
+
+func secondChallenge(nums1 []int, nums2 []int) float64 {
+	return 0
+}
